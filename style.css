@@ -1,0 +1,33 @@
+.naima {
+  width: 500px;
+  height: 700px;
+  background-color: aquamarine;
+  margin-left: 400px;
+ text-align: center;
+
+}
+ol{
+    text-align: left;
+}
+ul{text-align: left;
+
+}
+h3{text-align: left;
+
+}
+.mmmm {
+  width: 220px;
+  height: 50px;
+  border-radius: 100%;
+}
+img {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+text {
+  margin-left: 20px;
+
+}
